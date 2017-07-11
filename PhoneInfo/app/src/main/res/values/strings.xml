@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneInfo</string>
+    <string name="title_packinfo_detail">PackInfo Detail</string>
+</resources>
